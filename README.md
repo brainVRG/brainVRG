@@ -1,6 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Min-Woo%20Nam&fontSize=50" width="100%">
   
+  ### 👋 About Me
+ * 🎓 Currently enrolled in a Master's program, but **actively seeking full-time opportunities.**
+ * 💼 **Available for immediate employment** (Willing to discontinue studies for the right position).
+
   ### 🔗 Connect with Me
 
   <a href="https://www.notion.so/Min-Woo-Nam-2a36ca0b798280e1b628ea29084fedd8">
